@@ -32,7 +32,7 @@ Add the marks of 5 subjects and calculate the average.
 Then format the result using toFixed(2).
 
 **Code Snippet:**
-```
+
 var math = 75.25;
 var biology = 65;
 var chemistry = 80;
@@ -51,10 +51,11 @@ console.log(averageMarksFixed);
 Divide a number by 5 and print the remainder.
 
 **Code Snippet:**
-```
+
 var num = 119;
 var remainder = num % 5;
 console.log(remainder);
+```
 
 ## 🛠 Technologies Used
 
