@@ -61,7 +61,7 @@ console.log(remainder);
 
 JavaScript
 
-Console output (Node.js or Browser Console)
+Console output (Node.js)
 
 ### 📚 What I Learned
 
